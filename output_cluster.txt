@@ -1,0 +1,130 @@
+Cluster 0
+ cole
+ railly
+ jeffrey
+ dr
+ mason
+ look
+ james
+ angle
+ see
+ int
+
+
+Cluster 1
+ jack
+ eddie
+ jordy
+ candace
+ emil
+ quentin
+ oleg
+ nugent
+ look
+ cont
+
+
+Cluster 2
+ reno
+ jean
+ louis
+ continued
+ contrini
+ sauvage
+ baptiste
+ francoise
+ alain
+ pierre
+
+
+Cluster 3
+ skunk
+ archie
+ buckley
+ kasia
+ jed
+ rick
+ mike
+ dillon
+ susan
+ sunrise
+
+
+Cluster 4
+ floyd
+ bowman
+ hal
+ poole
+ continued
+ pod
+ chandra
+ curnow
+ 65
+ leonov
+
+
+Cluster 5
+ columbus
+ solomon
+ aron
+ stig
+ kat
+ bobby
+ jackson
+ canyon
+ patrick
+ int
+
+
+Cluster 6
+ mike
+ ed
+ alex
+ scarlet
+ olin
+ stan
+ maggie
+ lily
+ julie
+ back
+
+
+Cluster 7
+ howard
+ michelle
+ nate
+ door
+ room
+ crutch
+ int
+ look
+ back
+ cont
+
+
+Cluster 8
+ schofield
+ blake
+ continued
+ cont
+ trench
+ lieutenant
+ look
+ private
+ lauri
+ leslie
+
+
+Cluster 9
+ juror
+ 8th
+ 3rd
+ foreman
+ th
+ 4th
+ 7th
+ draft
+ 11th
+ guilty
+
+
